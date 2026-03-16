@@ -33,7 +33,7 @@ UnoTris is a **Tetris game implemented on Arduino** using an **LED matrix displa
 4. Use buttons/joystick to control the pieces.
 
 ## Circuit Diagram
-![Circuit Diagram] (tetris_circuit.png)
+![Circuit Diagram] (tetris_circuit.png.jpeg)
 
 ## Author
 
